@@ -21,4 +21,9 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+References:
+
+Photo in ugly page taken from:
+https://www.pomskypup.com/wp-content/uploads/2016/04/Pomskies-of-Hawaii-Review-Hawaii-Pomsky-Breeder-1.jpg
+
 
