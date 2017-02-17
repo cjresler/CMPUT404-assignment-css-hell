@@ -1,0 +1,76 @@
+body {
+	background-color: white;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	margin: 0;
+	border: 0;
+}
+
+
+/* Taken from https://rainbowcoding.com/2011/12/02/how-to-create-rainbow-text-in-html-css-javascript/ on February 16, 2017 */
+.rainbow {
+  background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
+  background-image: gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
+  color:transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+
+img {
+  width:15%;
+  display: block;
+  margin: left;
+  float: left;
+}
+
+h1{
+  background: radial-gradient(white, blue);
+  height: 3.5em;
+  margin: 0;
+  text-align: center;
+  padding-top: 2em;
+}
+
+h2 {
+  margin-left: 7em;
+  padding-bottom: 0pt;
+}
+
+ul{
+    list-style-type: circle;
+}
+
+blockquote {
+  margin-left: 10em;
+	margin-right: 10em;
+}
+
+.history {
+  padding-top:40pt;
+}
+
+.skills {
+  padding: 5pt;
+  padding-bottom: 10pt;
+  text-align: auto;
+}
+
+.sidebar {
+  margin-top: 5pt;
+	padding: 5pt;
+	max-width: 200pt;
+  padding: 15pt;
+	background-color: #FFD700;
+	border-radius: 2pt;
+  float:right;
+  height: 300pt;
+}
+
+.menu {
+  background: linear-gradient(gold, red);
+  text-align: center;
+  font-size:20px;
+  height: 3em;
+  border-top: solid;
+  border-bottom: solid;
+  margin-top: -20pt;
+}
